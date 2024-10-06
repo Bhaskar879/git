@@ -6,8 +6,8 @@ GIT command
 ```
 pwd
 cd one
-$ git config --global user.email "shonjay54@gmail.com"
-$ git config --global user.name "Bhaskar Ruidas"
+$ git config --global user.email "example@gmail.com"
+$ git config --global user.name "full name"
 $ git config --list
 ```
 Create reposetery
